@@ -1,0 +1,10 @@
+.ProgressSpinner {
+    position: relative;
+    z-index: 1;
+    width: 3.375rem;
+    height: 3.375rem;
+    background: rgba(0,0,0,.25) url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkiIGhlaWdodD0iMTkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwLjcxNyA5Ljc1TDE4LjMgMi4xNjdhLjY4NC42ODQgMCAxMC0uOTY3LS45NjdMOS43NSA4Ljc4MyAyLjE2NyAxLjJhLjY4NC42ODQgMCAxMC0uOTY3Ljk2N0w4Ljc4MyA5Ljc1IDEuMiAxNy4zMzNhLjY4NC42ODQgMCAxMC45NjcuOTY3bDcuNTgzLTcuNTgzIDcuNTgzIDcuNTgzYS42ODEuNjgxIDAgMDAuOTY3IDAgLjY4NC42ODQgMCAwMDAtLjk2N0wxMC43MTcgOS43NXoiIGZpbGw9IiNGRkYiIGZpbGwtcnVsZT0ibm9uemVybyIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9Ii43NSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg==) no-repeat 49% 49%;
+    border-radius: 50%;
+    cursor: pointer
+}
+
